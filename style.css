@@ -1,0 +1,17 @@
+.container {
+  text-align: center;
+}
+
+button {
+  margin-top: 40px;
+  padding: 30px 60px;
+  font-size: 35px;
+  background: #bde236;
+  color: #0a0909;
+  border: 1px solid #0f7441;
+}
+
+button:disabled {
+  background: #839ca8;
+  border: 1px solid #978a86;
+}
